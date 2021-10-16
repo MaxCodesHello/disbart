@@ -31,7 +31,7 @@ client.on("message", (message) => {
 		}
   }
   if (message.content.startsWith("!greeting")) {
-    message.channel.send(`I'm disbart who the heck are you? Wait never mind, you are @${message.author.tag}. Okay well hi there! I have got a ton of features so use command !help to test them all!\n`);
+    message.channel.send(`I'm disbart who the heck are you? Wait never mind, you are @${message.author.tag}. Okay well hi there! I have got a ton of features so use command !help to test them all! have fun lol!\n`);
   }
   if (message.content.startsWith("!invite")) {
     message.channel.send("Invite link: insert here also here is the link to support server insert here \n")
