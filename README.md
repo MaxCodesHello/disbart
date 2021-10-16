@@ -1,5 +1,5 @@
 # disbart
-A basic little discord bot.
+A basic little discord bot coded in discord.js
 
 DISCLAIMER: the code is messy, there's a lot of crap in it. This is because i've had a lot of people help me with this bot and some of them added uselessness, like else statement for example. I'm too lazy to fix this, unless there's a serious issue in which case lmk.
 
