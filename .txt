@@ -1,1 +1,0 @@
-Just an fyi, the code is pretty messy and there's a lot of useless stuff like else statement, this is because there's been a few people working on this bot besides me. Lmk in the github if u need help.
